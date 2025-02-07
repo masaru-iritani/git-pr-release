@@ -1,5 +1,7 @@
 # git-pr-release <a href="http://badge.fury.io/rb/git-pr-release"><img src="https://badge.fury.io/rb/git-pr-release@2x.png" alt="Gem Version" height="18"></a>
 
+test1
+
 Creates a "release pull request", whose body consists of features list or
 pull requests that are to be released into production. It's especially useful for QA and
 pre-release checks. `git-pr-release` automatically collect pull requests
