@@ -15,6 +15,8 @@ Suitable for branching strategy like below (similar to git-flow):
 - Then the staging branch is merged into "production" branch, which is for
   production release.
 
+test2
+
 ## Usage
 
 `git-pr-release`: default
